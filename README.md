@@ -16,7 +16,7 @@
 ## Part 2: 設計一門課程
 
 * [TODO: 如何設計一門課程](how-to-design.md)
-
+* [環境調整篇]
 Part 3: 技法
 
 Part 4: 理論
