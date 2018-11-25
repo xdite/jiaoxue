@@ -12,7 +12,9 @@
 * [ADDIE](addie.md)
 * [ADDIE之A：分析 Analysis](addie-1.md)
 * [ADDIE之D：設計 Design](addie-2.md)
-
+* [](addie-3.md)
+* [](addie-4.md)
+* [](addie-5.md)
 Part 2: 上課
 
 Part 3: 技法
