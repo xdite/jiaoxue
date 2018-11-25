@@ -7,13 +7,15 @@
 * [前言 -- 教學，是一門可以教、也可以學的技術](00.md)
 * [第一章 -- 什麼是教學？](01.md)
 
-## Part 1: 如何設計一門課程
+## Part 1: 準備一門課程
 
 * [ADDIE](addie.md)
 * [ADDIE之A：分析 Analysis](addie-1.md)
 * [ADDIE之D：設計 Design](addie-2.md)
 
-## Part 2: 上課
+## Part 2: 設計一門課程
+
+* [TODO: 如何設計一門課程](how-to-design.md)
 
 Part 3: 技法
 
