@@ -9,8 +9,9 @@
 
 ## Part 1: 如何設計一門課程 ADDIE
 
+* [ADDIE](addie.md)
 * [ADDIE之A：分析 Analysis](addie-1.md)
-* [ADDIE之 D：設計 （Design）](addie-2.md)
+* [ADDIE之D：設計 Design](addie-2.md)
 
 Part 2: 上課
 
