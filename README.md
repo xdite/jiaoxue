@@ -12,6 +12,7 @@
 * [ADDIE](addie.md)
 * [ADDIE之A：分析 Analysis](addie-1.md)
 * [ADDIE之D：設計 Design](addie-2.md)
+* [您的教學目標，可以被評估嗎？](addie-3.md)
 
 ## Part 2: 設計一門課程
 
@@ -22,6 +23,7 @@
 * [環境調整篇](part2-1.md)
 * [如何開場](part2-2.md)
 * [如何調動學員積極性 -- 分組](part2-3.md)
+* [管理電腦與手機]
 
 ### 教學法
 
